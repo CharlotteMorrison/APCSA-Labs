@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1-1 InfoCard/src"/>
+	<classpathentry kind="src" path="2-1 TwoMeaningsOfPlus/src"/>
+	<classpathentry kind="src" path="2-2 MathOperations/src"/>
+	<classpathentry kind="src" path="2-3 MixedResults/src"/>
+	<classpathentry kind="src" path="2-4 MathClassDemo/src"/>
+	<classpathentry kind="src" path="2-4 RandomDice/src"/>
+	<classpathentry kind="src" path="2-5 TemperatureConversion/src"/>
+	<classpathentry kind="src" path="4-1 Average/src"/>
+	<classpathentry kind="src" path="4-1 Practice/src"/>
+	<classpathentry kind="src" path="4-2 DrawingShapes/src"/>
+	<classpathentry kind="src" path="4-2 InfiniteLoop/src"/>
+	<classpathentry kind="src" path="4-2 Series/src"/>
+	<classpathentry kind="src" path="4-2 WinPercent/src"/>
+	<classpathentry kind="src" path="4-3 Here/src"/>
+	<classpathentry kind="src" path="4-3 Multiples/src"/>
+	<classpathentry kind="src" path="4-3 PalindromeTester/src"/>
+	<classpathentry kind="src" path="4-3 ReverseNumber/src"/>
+	<classpathentry kind="src" path="4-4 NestedLoops/src"/>
+	<classpathentry kind="src" path="4-4 Primes/src"/>
+	<classpathentry kind="src" path="4-4 Stars/src"/>
+	<classpathentry kind="src" path="4-5 BasicSeries/src"/>
+	<classpathentry kind="src" path="4-5 OddNumbers/src"/>
+	<classpathentry kind="src" path="5-1 Coins/src"/>
+	<classpathentry kind="output" path="1-1 InfoCard/bin"/>
+</classpath>
